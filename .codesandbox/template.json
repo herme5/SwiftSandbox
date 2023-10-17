@@ -1,6 +1,7 @@
 {
     "title": "Swift",
     "description": "Example of using Swift inside CodeSandbox",
+    "iconUrl": "https://github.com/herme5/SwiftSandbox/blob/main/.codesandbox/icon.png?raw=true",
     "tags": [
         "swift"
     ],
