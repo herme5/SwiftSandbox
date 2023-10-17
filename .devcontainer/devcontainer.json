@@ -1,6 +1,10 @@
 {
-    "name": "Devcontainer",
+	"name": "Default Swift Template",
     "build": {
         "dockerfile": "./Dockerfile"
+    },
+    "features": {
+        "ghcr.io/swift-server-community/swift-devcontainer-features/jemalloc:1": { },
+        "ghcr.io/swift-server-community/swift-devcontainer-features/swiftformat:0": { }
     }
 }
