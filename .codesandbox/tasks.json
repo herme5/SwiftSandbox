@@ -2,10 +2,10 @@
     "tasks": {
         "start": {
             "name": "start",
-            "command": "swift Main.py",
+            "command": "swift Main.swift",
             "runAtStart": true,
             "restartOn": {
-                "files": ["Main.py"]
+                "files": ["Main.swift"]
             }
         }
     }
